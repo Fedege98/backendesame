@@ -302,7 +302,6 @@ Resource==0.2.1
 rfc3986==1.5.0
 rich==12.6.0
 rsa==4.9
-scikit-learn==1.2.2
 scipy==1.9.3
 seaborn==0.12.2
 secure==0.3.0
