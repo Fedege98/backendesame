@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ERAAAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FEC6C935D49540A0812EE0BA100866E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1F294A3D7F94F1A9E9F741AA0E76B91 }}
