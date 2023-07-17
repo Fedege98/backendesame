@@ -23,9 +23,6 @@ def send_to_iothub():
     return jsonify({'time': codice})
 
 
-if __name__ == '__main__':
-    app.run(port=3001, debug=True)
-
 
 
 
