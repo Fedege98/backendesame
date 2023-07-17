@@ -1,5 +1,4 @@
 absl-py==1.4.0
-pywin32==305
 adal==1.2.7
 adblockparser==0.7
 aiohttp==3.8.4
